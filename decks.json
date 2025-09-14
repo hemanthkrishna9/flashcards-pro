@@ -1,0 +1,16 @@
+{
+  "decks": [
+    {
+      "title": "Presidents of India",
+      "file": "Polity/President.json"
+    },
+    {
+      "title": "Important Constitutional Amendments",
+      "file": "Polity/amendments.json"
+    },
+    {
+      "title": "Mughal Empire",
+      "file": "History/Mughal.json"
+    }
+  ]
+}
