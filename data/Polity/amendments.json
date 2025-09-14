@@ -1,0 +1,26 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "question": "What is the significance of the 42nd Amendment to the Indian Constitution?",
+      "answer": "<b>42nd Amendment</b> (1976):<ul><li>Introduced the words 'Socialist' and 'Secular' to the Preamble</li><li>Strengthened Directive Principles</li><li>Placed restrictions on judicial review</li></ul>",
+      "interval": 0,
+      "repetitions": 0,
+      "easeFactor": 2.5,
+      "nextReview": "2025-09-14T10:00:00.000Z",
+      "isNew": true,
+      "isLearning": false
+    },
+    {
+      "id": 2,
+      "question": "Which amendment lowered the voting age from 21 to 18 years?",
+      "answer": "The <b>61st Amendment</b> (1988) reduced the voting age for Lok Sabha and Assembly elections from 21 years to 18 years.",
+      "interval": 0,
+      "repetitions": 0,
+      "easeFactor": 2.5,
+      "nextReview": "2025-09-14T10:00:00.000Z",
+      "isNew": true,
+      "isLearning": false
+    }
+  ]
+}
