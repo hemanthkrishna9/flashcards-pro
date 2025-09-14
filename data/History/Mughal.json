@@ -1,0 +1,26 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "question": "Who founded the Mughal Empire in India?",
+      "answer": "<b>B\u0101bur</b> founded the Mughal Empire in 1526 after defeating Ibrahim Lodi in the First Battle of Panipat.",
+      "interval": 0,
+      "repetitions": 0,
+      "easeFactor": 2.5,
+      "nextReview": "2025-09-14T10:00:00.000Z",
+      "isNew": true,
+      "isLearning": false
+    },
+    {
+      "id": 2,
+      "question": "Name the <i>longest-reigning</i> Mughal emperor and highlight one of his accomplishments.",
+      "answer": "<b>Akbar the Great</b> (reigned 1556\u20131605) was the longest-reigning Mughal emperor. He established a centralized administrative system and promoted religious tolerance through his policy of Sulh-i-Kul.",
+      "interval": 0,
+      "repetitions": 0,
+      "easeFactor": 2.5,
+      "nextReview": "2025-09-14T10:00:00.000Z",
+      "isNew": true,
+      "isLearning": false
+    }
+  ]
+}
