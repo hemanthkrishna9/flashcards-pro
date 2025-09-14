@@ -1,0 +1,15 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "question": "Who was the <b>first President</b> of India?",
+      "answer": "<b>Dr. Rajendra Prasad</b><br><br><i>Key facts:</i><ul><li>Served from 1950-1962</li><li>Only president to serve two terms</li><li>Freedom fighter and lawyer</li><li>Born in Bihar</li></ul>",
+      "interval": 0,
+      "repetitions": 0,
+      "easeFactor": 2.5,
+      "nextReview": "2025-09-14T10:00:00.000Z",
+      "isNew": true,
+      "isLearning": false
+    }
+  ]
+}
